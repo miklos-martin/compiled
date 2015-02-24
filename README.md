@@ -1,7 +1,7 @@
 compiled
 ========
 
-Docker image for compiling [d][dlang] code.
+Docker image for compiling [D][dlang] code.
 
 Usage
 -----
